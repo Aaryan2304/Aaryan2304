@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG1PRzNbl27Bw/profile-displaybackgroundimage-shrink_350_1400/0/1712646359610?e=1722470400&v=beta&t=-ay6NY4WS0ZlOKzOSCn4vZJyBon2Px1Gr2cXKHtA_G0)
 <h1 align="center">Hi 👋, I'm Aaryan Kurade</h1>
 <h3 align="center">Aspiring Data Scientist with a knack for sports and insights</h3>
 <img align="right" alt="Neural Network" src="https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif">
