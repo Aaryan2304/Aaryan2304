@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist with a knack for sports and insights</h3>
 <img align="right" alt="Neural Network" src="https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan2304&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan2304" /> </p>
+![](https://komarev.com/ghpvc/?username=Aaryan2304&color=green)
 
 <p align="left"> <a href="https://twitter.com/nyxox0101" target="blank"><img src="https://img.shields.io/twitter/follow/nyxox0101?logo=twitter&style=for-the-badge" alt="nyxox0101" /></a> </p>
 
