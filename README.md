@@ -80,10 +80,17 @@ I am an ML Engineer specializing in the end-to-end development and deployment of
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aaryan2304&theme=monokai-metallian&hide_border=true" alt="Aaryan's streak"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aaryan2304&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="Aaryan's Github Stats"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aaryan2304&theme=monokai-metallian&hide_border=true" alt="Aaryan's streak"/>
+    </td>
+    <td align="center">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aaryan2304&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Aaryan's Github Stats"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Aaryan2304&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Aaryan's Activity Graph"/>
 </p>
