@@ -7,7 +7,7 @@
   <a href="https://github.com/Aaryan2304" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://aaryan2304.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
