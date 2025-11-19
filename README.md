@@ -1,93 +1,97 @@
-# Aaryan Kurade | ML Engineer
+<div align="center">
 
-<p align="center">
+# Hi there, I'm Aaryan Kurade 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=ML+Engineer;Computer+Vision+Specialist;Building+Responsible+AI;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<p>
+  <i>End-to-End Computer Vision Systems | MLOps | Scalable AI Deployment</i>
+</p>
+
+<p>
+  <a href="https://twitter.com/nyxox0101" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
   <a href="https://www.linkedin.com/in/aaryan-kurade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://aaryan2304.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:aaryankurade27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://medium.com/@aaryan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
----
-
-### 👋 About Me
-
-I am an ML Engineer specializing in the end-to-end development and deployment of computer vision systems. I have a proven ability to architect robust AI/ML pipelines, containerize models for scalable inference via APIs, and integrate ethical considerations and explainability into the core of a project. I am passionate about building responsible and transparent AI solutions.
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 👨‍💻 About Me
 
-| Project | Description | Technologies Used |
-|---|---|---|
-| **Deepfake Detection** | Engineered an end-to-end deepfake detection pipeline achieving 91.2% accuracy. Deployed as a scalable REST API using FastAPI and Docker with Grad-CAM for explainability. | PyTorch, FastAPI, Docker, OpenCV, XAI |
-| **Video Anomaly Detection** | Built a production-grade anomaly detection system using a PyTorch-based autoencoder (92.5% precision). Architected with a full MLOps pipeline for real-time stream analysis. | PyTorch, FastAPI, Docker, MLOps, Render |
-| **AI Visual Search Engine** | Architected a visual search system for 100K+ images with <100ms latency using CLIP and FAISS. Deployed with a full-stack ML pipeline featuring async endpoints and a Streamlit UI. | CLIP, FAISS, PyTorch, FastAPI, Streamlit |
+I am an **ML Engineer** specializing in the end-to-end development and deployment of **Computer Vision** systems. I have a proven ability to architect robust AI/ML pipelines, containerize models for scalable inference via APIs, and integrate ethical considerations into the core of a project.
+
+---
+
+### 💼 Experience
+
+| Role | Company | Timeline | Impact |
+| :--- | :--- | :--- | :--- |
+| **Software Engineer** | **Arakoo.ai** | *Aug 2025 - Nov 2025* | Developed voice models for **Speech Recognition**, **Speaker Diarization**, and **Voice Activity Detection**. |
+| **ML Engineer Intern** | **Utopia Optovision** | *Jan 2024 - Jan 2025* | Engineered an automated text extraction system using **YOLO** and **PaddleOCR**, boosting accuracy by **15%** and reducing manual effort by **20%**. |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming & Core Libraries:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</p>
+<div align="center">
 
-**Frameworks & Specializations:**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/NLP-007acc?style=for-the-badge" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-ff9900?style=for-the-badge" alt="Reinforcement Learning"/>
-</p>
+**Languages & Data**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-**Tools & Platforms:**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/MLOps-239120?style=for-the-badge" alt="MLOps"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/LLMs-00aadd?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/OCR-ff5733?style=for-the-badge" alt="OCR"/>
-  <img src="https://img.shields.io/badge/CVAT-2F80ED?style=for-the-badge" alt="CVAT"/>
-</p>
+<br><b>AI, Computer Vision & Frameworks</b><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+<br><b>Deployment, MLOps & Cloud</b><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/nyxox0101" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyxox0101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaryan-kurade" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryan-kurade" height="30" width="40" /></a>
-<a href="https://medium.com/@aaryan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aaryan" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Deepfake Detection** | End-to-end pipeline achieving **91.2% accuracy**. Deployed as a scalable REST API with Grad-CAM explainability. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
+| **Video Anomaly Detection** | Production-grade anomaly detection using Autoencoders (**92.5% precision**) with real-time stream analysis. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/> |
+| **AI Visual Search Engine** | Visual search for 100K+ images with **<100ms latency**. Full-stack pipeline with async endpoints. | <img src="https://img.shields.io/badge/CLIP-FF4B4B?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aaryan2304&theme=monokai-metallian&hide_border=true" alt="Aaryan's streak"/>
-    </td>
-    <td align="center">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aaryan2304&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Aaryan's Github Stats"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Aaryan2304&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Aaryan's Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aaryan2304&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aaryan2304&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Aaryan2304&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Activity Graph"/>
+</div>
