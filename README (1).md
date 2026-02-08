@@ -37,9 +37,9 @@
 Computer Vision Engineer building **production ML systems** across detection, segmentation, tracking, and geospatial applications. I specialize in deploying optimized CV pipelines (YOLO, RT-DETR, SAM) for **sports analytics**, **satellite imagery**, and **industrial inspection** with real-time inference constraints.
 
 **Core Expertise:**
-- 🎯 Multi-object tracking (ByteTrack, DeepSORT) with 87.3% MOTA
+- 🎯 Multi-object tracking (ByteTrack, DeepSORT)
 - 🚀 Model optimization (ONNX, INT8/INT4 quantization, TensorRT)
-- ⚡ Real-time inference (30-100 FPS) on edge devices
+- ⚡ Real-time inference on edge devices
 - 🛠️ Scalable deployment (FastAPI + Docker + Prometheus)
 - 📊 Data annotation (1000+ images via Roboflow, CVAT, QGIS)
 
@@ -49,14 +49,6 @@ Computer Vision Engineer building **production ML systems** across detection, se
 
 <div align="center">
 
-**Computer Vision & Deep Learning**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
 **Languages & Frameworks**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,6 +56,14 @@ Computer Vision Engineer building **production ML systems** across detection, se
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+**Computer Vision & Deep Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 **MLOps & Deployment**
 
@@ -86,11 +86,11 @@ Computer Vision Engineer building **production ML systems** across detection, se
 
 ## 🚀 Featured Projects
 
-### 🏐 [Multi-Sport Computer Vision Analytics](https://github.com/Aaryan2304/sports-ai)
+### 🏐 [Multi-Sport Computer Vision Analytics](https://github.com/Aaryan2304/sports-ai) ![WIP](https://img.shields.io/badge/Status-In_Progress-yellow)
 > Production-ready tracking and analytics across volleyball, football, and basketball
 
 **Key Achievements:**
-- ⚡ **100 FPS ball detection** on CPU (Intel i5) using custom ONNX seq-9 model
+- ⚡ **100 FPS ball detection** on CPU (Intel i7) using custom ONNX seq-9 model
 - 🎯 **87.3% MOTA** player tracking with ByteTrack + Kalman filtering
 - 🎨 **Zero-shot team classification** via SigLIP embeddings + KMeans
 - 📊 **Real-time inference** (30-100 FPS) with hybrid CPU/GPU architecture
@@ -168,7 +168,7 @@ Computer Vision Engineer building **production ML systems** across detection, se
 ## 🌟 Open Source Contributions
 
 Active contributor to:
-- **[Ultralytics](https://github.com/ultralytics/ultralytics)** - YOLO implementations and optimizations
+- **[Roboflow](https://github.com/roboflow)** - YOLO implementations and optimizations
 - **[HuggingFace](https://github.com/huggingface)** - Model documentation and transformers
 - Computer vision libraries and tools
 
