@@ -108,12 +108,6 @@ An image-retrieval system for fashion images using visual embeddings and vector 
 - Worked on an industrial inspection pipeline combining YOLO-based detection with PaddleOCR.
 - Contributed to detection/OCR integration and inference optimisation, including ONNX export.
 
-## Education
-
-**MIT World Peace University, Pune**  
-B.Tech — Electronics and Communication Engineering (AI/ML)  
-2021–2025
-
 ## Areas of Interest
 
 Computer Vision Engineering · ML Engineering · Robotics Perception · Autonomous Systems · Geospatial AI · Remote Sensing · Aerospace & Space Applications
