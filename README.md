@@ -11,6 +11,8 @@ Building practical vision systems for **robotics, geospatial imagery, and real-w
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aaryankurade27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aaryan2304-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aaryan2304)
 
+<img src="https://komarev.com/ghpvc/?username=Aaryan2304&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
@@ -64,6 +66,23 @@ Sports video-analysis projects covering player and ball detection, tracking, tea
 ## Interests
 
 Computer Vision · Robotics & Autonomous Systems · Geospatial AI · Remote Sensing · Aerospace & Space Applications
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Aaryan2304&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aaryan2304&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aaryan2304&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<sub>Stats reflect public GitHub activity. Language distribution is based on code in public repositories, not skill level.</sub>
+
+</div>
 
 ---
 
