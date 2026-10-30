@@ -9,7 +9,6 @@ Building practical vision systems for **robotics, geospatial imagery, and real-w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-kurade)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://aaryan2304.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aaryankurade27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aaryan2304-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aaryan2304)
 
 <img src="https://komarev.com/ghpvc/?username=Aaryan2304&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
 
