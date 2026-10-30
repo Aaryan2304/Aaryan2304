@@ -26,11 +26,11 @@ My work spans **object detection, segmentation, OCR, pose estimation, robotics p
 ## Focus Areas
 
 - **Computer Vision:** Detection, instance segmentation, tracking, OCR, and pose estimation.
-- **Robotics Perception:** RGB-D vision, 6-DoF pose estimation, CAD/STL matching, and coordinate transformations.
+- **Robotics Perception:** RGB-D vision, 6-DoF pose estimation, and coordinate transformations.
 - **Geospatial AI:** SAR/EO imagery, GeoTIFF processing, oriented bounding boxes (OBB), and cross-domain evaluation.
-- **ML Systems:** PyTorch, ONNX, quantization, FastAPI, Docker, and concurrent inference.
+- **ML Systems:** PyTorch, ONNX, quantization, FastAPI, and Docker.
 
-## Selected Projects
+## Featured Projects
 
 ### [SAR Ship Detection Pipeline](https://github.com/Aaryan2304/sar-ship-detection-pipeline)
 End-to-end SAR ship detection with oriented bounding boxes, GeoTIFF tiling, and cross-domain evaluation from SSDD to Umbra SAR imagery.
@@ -59,9 +59,9 @@ Sports video-analysis projects covering player and ball detection, tracking, tea
 |---|---|
 | **Language** | Python |
 | **ML & Deep Learning** | PyTorch, TensorFlow, NumPy, scikit-learn |
-| **Computer Vision** | OpenCV, YOLO, RT-DETR, Detectron2, Mask R-CNN, U-Net, PaddleOCR, MediaPipe |
+| **Computer Vision** | OpenCV, YOLO, RT-DETR, Detectron2, R-CNN, U-Net, PaddleOCR |
 | **Geospatial** | Rasterio, GDAL, QGIS, GeoTIFF, SAR/EO imagery, OBB workflows |
-| **Inference & Backend** | ONNX, model quantization, FastAPI, Docker, multithreading, concurrent inference |
+| **Inference & Backend** | ONNX, model quantization, FastAPI, Docker |
 
 ## Interests
 
